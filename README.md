@@ -1,4 +1,1 @@
 # hope
-
-
-Prvni radek aktualizace
